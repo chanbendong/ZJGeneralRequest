@@ -16,7 +16,6 @@
 		1C788655202BF2B300A4167A /* ZJGeneralRequestTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 1C788654202BF2B300A4167A /* ZJGeneralRequestTests.m */; };
 		1C788660202BF2B300A4167A /* ZJGeneralRequestUITests.m in Sources */ = {isa = PBXBuildFile; fileRef = 1C78865F202BF2B300A4167A /* ZJGeneralRequestUITests.m */; };
 		1C788670202BF42900A4167A /* ZJGeneralRequest.m in Sources */ = {isa = PBXBuildFile; fileRef = 1C78866F202BF42900A4167A /* ZJGeneralRequest.m */; };
-		1C788673202C49DE00A4167A /* ZJModel.m in Sources */ = {isa = PBXBuildFile; fileRef = 1C788672202C49DE00A4167A /* ZJModel.m */; };
 		C3E53A1975267345956F4520 /* libPods-ZJGeneralRequest.a in Frameworks */ = {isa = PBXBuildFile; fileRef = B9877E4814E56ECFFF0FA138 /* libPods-ZJGeneralRequest.a */; };
 /* End PBXBuildFile section */
 
@@ -56,8 +55,6 @@
 		1C788661202BF2B300A4167A /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		1C78866E202BF42900A4167A /* ZJGeneralRequest.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = ZJGeneralRequest.h; sourceTree = "<group>"; };
 		1C78866F202BF42900A4167A /* ZJGeneralRequest.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = ZJGeneralRequest.m; sourceTree = "<group>"; };
-		1C788671202C49DE00A4167A /* ZJModel.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = ZJModel.h; sourceTree = "<group>"; };
-		1C788672202C49DE00A4167A /* ZJModel.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = ZJModel.m; sourceTree = "<group>"; };
 		7F06B14A42CE4F05B0E59025 /* Pods-ZJGeneralRequest.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-ZJGeneralRequest.release.xcconfig"; path = "Pods/Target Support Files/Pods-ZJGeneralRequest/Pods-ZJGeneralRequest.release.xcconfig"; sourceTree = "<group>"; };
 		A72F9A338C77C8177BD39107 /* Pods-ZJGeneralRequest.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-ZJGeneralRequest.debug.xcconfig"; path = "Pods/Target Support Files/Pods-ZJGeneralRequest/Pods-ZJGeneralRequest.debug.xcconfig"; sourceTree = "<group>"; };
 		B9877E4814E56ECFFF0FA138 /* libPods-ZJGeneralRequest.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = "libPods-ZJGeneralRequest.a"; sourceTree = BUILT_PRODUCTS_DIR; };
@@ -119,8 +116,6 @@
 				1C78863C202BF2B300A4167A /* AppDelegate.m */,
 				1C78863E202BF2B300A4167A /* ViewController.h */,
 				1C78863F202BF2B300A4167A /* ViewController.m */,
-				1C788671202C49DE00A4167A /* ZJModel.h */,
-				1C788672202C49DE00A4167A /* ZJModel.m */,
 				1C788641202BF2B300A4167A /* Main.storyboard */,
 				1C788644202BF2B300A4167A /* Assets.xcassets */,
 				1C788646202BF2B300A4167A /* LaunchScreen.storyboard */,
@@ -359,7 +354,6 @@
 			buildActionMask = 2147483647;
 			files = (
 				1C788670202BF42900A4167A /* ZJGeneralRequest.m in Sources */,
-				1C788673202C49DE00A4167A /* ZJModel.m in Sources */,
 				1C788640202BF2B300A4167A /* ViewController.m in Sources */,
 				1C78864B202BF2B300A4167A /* main.m in Sources */,
 				1C78863D202BF2B300A4167A /* AppDelegate.m in Sources */,

@@ -8,7 +8,6 @@
 
 #import "ViewController.h"
 #import "ZJGeneralRequest.h"
-#import "ZJModel.h"
 @interface ViewController ()
 
 @end
